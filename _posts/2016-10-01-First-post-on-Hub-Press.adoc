@@ -1,0 +1,7 @@
+= First post on HubPress!
+:published_at: 2016-10-01
+:hp-tags: HubPress, Blog
+
+This is my first post on this page. It works as both a check to see if this is working properly, and how it will look on the website.
+
+I'll be posting more content as time goes on.
