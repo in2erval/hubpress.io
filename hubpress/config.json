@@ -4,7 +4,13 @@
     "repositoryName": "in2erval.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Tatsuya Haddow - Another CS Student",
+    "description": "Studying at University of Edinburgh, 2nd year.",
+    "logo": "https://avatars1.githubusercontent.com/u/15063274?v=3&s=466"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
